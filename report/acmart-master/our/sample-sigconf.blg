@@ -4,70 +4,70 @@ The top-level auxiliary file: sample-sigconf.aux
 The style file: ACM-Reference-Format.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Database file #1: sample-bibliography.bib
+Database file #1: bibliography.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Warning--empty publisher in clark:pct
-Warning--empty address in clark:pct
-Warning--empty chapter and pages in Editor00
-Warning--page numbers missing in Editor00a
-Warning--empty organization in Fear05
-Warning--empty author in 2004:ITE:1009386.1010128
-Warning--numpages field, but no articleno or eid field, in Kirschmer:2010:AEI:1958016.1958018
-Warning--empty address in Knuth97
-Warning--articleno or eid field, but no numpages field, in Lee05
-Warning--page numbers missing in both pages and numpages fields in Lee05
-Warning--articleno or eid, but no pages or numpages field in Lee05
-Warning--unrecognized DOI value [99.9999/woot07-S422]
-Warning--articleno or eid field, but no numpages field, in rous08
-Warning--page numbers missing in both pages and numpages fields in rous08
-Warning--articleno or eid, but no pages or numpages field in rous08
-Warning--page numbers missing in both pages and numpages fields in SaeediJETC10
-Warning--unrecognized DOI value [99.9999/woot07-S422]
-Warning--empty author in TUGInstmem
-Warning--empty year in CTANacmart
-You've used 40 entries,
+Warning--no journal in antoniades2016fare
+Warning--no number and no volume in antoniades2016fare
+Warning--page numbers missing in both pages and numpages fields in antoniades2016fare
+Warning--empty publisher in chen2016xgboost
+Warning--empty address in chen2016xgboost
+Warning--no journal in huber2016osrmtime
+Warning--no number and no volume in huber2016osrmtime
+Warning--page numbers missing in both pages and numpages fields in huber2016osrmtime
+Warning--no journal in laha2017travel
+Warning--no number and no volume in laha2017travel
+Warning--page numbers missing in both pages and numpages fields in laha2017travel
+Warning--empty publisher in lee2015taxi
+Warning--empty address in lee2015taxi
+Warning--page numbers missing in both pages and numpages fields in lee2015taxi
+Warning--no number and no volume in scripts2013calculate
+Warning--page numbers missing in both pages and numpages fields in scripts2013calculate
+Warning--empty publisher in sculley2010web
+Warning--empty address in sculley2010web
+Warning--no number and no volume in weber_2015
+You've used 11 entries,
             5795 wiz_defined-function locations,
-            1813 strings with 24537 characters,
-and the built_in function-call counts, 41899 in all, are:
-= -- 5410
-> -- 969
-< -- 4
-+ -- 303
-- -- 629
-* -- 2824
-:= -- 4158
-add.period$ -- 219
-call.type$ -- 40
-change.case$ -- 221
-chr.to.int$ -- 38
-cite$ -- 57
-duplicate$ -- 3645
-empty$ -- 2601
-format.name$ -- 399
-if$ -- 9629
-int.to.chr$ -- 4
+            1369 strings with 17398 characters,
+and the built_in function-call counts, 11421 in all, are:
+= -- 1344
+> -- 368
+< -- 0
++ -- 116
+- -- 135
+* -- 749
+:= -- 1179
+add.period$ -- 56
+call.type$ -- 11
+change.case$ -- 67
+chr.to.int$ -- 10
+cite$ -- 30
+duplicate$ -- 1066
+empty$ -- 754
+format.name$ -- 159
+if$ -- 2699
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 84
-newline$ -- 411
-num.names$ -- 303
-pop$ -- 1184
+missing$ -- 39
+newline$ -- 131
+num.names$ -- 87
+pop$ -- 420
 preamble$ -- 1
-purify$ -- 567
+purify$ -- 164
 quote$ -- 0
-skip$ -- 1227
+skip$ -- 366
 stack$ -- 0
-substring$ -- 4042
-swap$ -- 327
-text.length$ -- 547
+substring$ -- 800
+swap$ -- 94
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 915
+type$ -- 240
 warning$ -- 19
-while$ -- 317
+while$ -- 85
 width$ -- 0
-write$ -- 804
+write$ -- 228
 (There were 19 warnings)
